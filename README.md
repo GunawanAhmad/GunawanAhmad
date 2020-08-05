@@ -42,9 +42,8 @@
 
 
 
----
 
-<img align="left" alt="gunawanart's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gunawanart&show_icons=true&hide_border=true" />
+
 
 
 [twitter]: https://twitter.com/gunawan10x
