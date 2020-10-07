@@ -1,16 +1,17 @@
-### Hi there, I'm Gunawan - aka [gunOne] 👋
+### Hi there, I'm Gunawan 👋
 
 ## I'm a Student and a Developer!
 
 - 🔭 I’m currently studying computer science at Telkom University
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Learn as musch as I could
+- 🥅 2020 Goals: Learn as much as I could
 
 ### Connect with me:
 
 
-
+[<img align="left" alt="gunawanahmad.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 <br />
@@ -43,5 +44,7 @@
 
 
 [twitter]: https://twitter.com/gunawan10x
+[website]: https://gunawanahmad.github.io/
+[instagram]: https://instagram.com/gunone__
 
 
