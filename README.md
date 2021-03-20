@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently studying computer science at Telkom University
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Learn as much as I could
+- 🥅 2021 Goals: Learn as much as I could
 
 ### Connect with me:
 
