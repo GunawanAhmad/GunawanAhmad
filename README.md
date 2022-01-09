@@ -1,10 +1,12 @@
-### Hi there, I'm Gunawan 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## I'm a Student and a Developer!
+Hi I' Gunawan Nur Ahmad, a passionate software developer from Indonesia. I take great care in the experience, architecture, and code quality of the things I build.
 
-- 🔭 I’m currently studying computer science at Telkom University
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Learn as much as I could
+I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+
+- 💼 any freelance work? do reach, [email](mailto:gunawanfsdev@gmail.com) :)
+- 💬 ask me about anything, I am happy to help;
+
 
 ### Connect with me:
 
