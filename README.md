@@ -2,7 +2,7 @@
 
 Hi i'm Gunawan Nur Ahmad, a passionate software developer from Indonesia. I take great care in the experience, architecture, and code quality of the things I build.
 
-I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 - 💼 any freelance work? do reach, [email](mailto:gunawanfsdev@gmail.com) :)
 - 💬 ask me about anything, I am happy to help;
@@ -12,8 +12,8 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 
 [<img align="left" alt="gunawanahmad.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="gunawanahmad | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="gunawanahmad | linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 <br />
@@ -49,6 +49,6 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 [twitter]: https://twitter.com/gunawan10x
 [website]: https://gunawanahmad.github.io/
-[instagram]: https://instagram.com/gunone__
+[linkedin]: https://id.linkedin.com/in/gunawan-nur-ahmad-0148441b7?trk=public_profile_browsemap
 
 
