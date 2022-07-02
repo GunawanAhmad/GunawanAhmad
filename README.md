@@ -1,4 +1,5 @@
-### Hi there <img src="https://c.tenor.com/WVdmxyZUYQEAAAAd/spy-x-family-spy-family.gif">
+### Hi
+<img src="https://c.tenor.com/WVdmxyZUYQEAAAAd/spy-x-family-spy-family.gif">
 
 Hi i'm Gunawan Nur Ahmad, a passionate software developer from Indonesia. I take great care in the experience, architecture, and code quality of the things I build.
 
