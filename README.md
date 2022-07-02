@@ -1,9 +1,8 @@
-### Hi
+## Hello
 <img src="https://c.tenor.com/WVdmxyZUYQEAAAAd/spy-x-family-spy-family.gif">
 
 Hi i'm Gunawan Nur Ahmad, a passionate software developer from Indonesia. I take great care in the experience, architecture, and code quality of the things I build.
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 - 💼 any freelance work? do reach, [email](mailto:gunawanfsdev@gmail.com) :)
 - 💬 ask me about anything, I am happy to help;
