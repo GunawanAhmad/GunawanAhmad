@@ -7,6 +7,8 @@ Hi i'm Gunawan Nur Ahmad, a passionate software developer from Indonesia. I take
 - 💼 any freelance work? do reach, [email](mailto:gunawanfsdev@gmail.com) :)
 - 💬 ask me about anything, I am happy to help;
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/gunawanahmad26)
+
 
 ### Connect with me:
 
